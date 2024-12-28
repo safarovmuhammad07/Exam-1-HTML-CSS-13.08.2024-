@@ -1,0 +1,91 @@
+*
+{
+    margin: 0;
+}
+.yak{
+    display: flex;
+    gap: 3%;
+    background-color: red;
+    color: white;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-left: 0%;
+    font-size: 30px;
+border-bottom: 1.5px solid black;
+
+.hom{
+    background-color: aliceblue;
+    color: black;
+    padding: 0.5% 2% ;
+    margin-left: 0;
+    
+    text-align: start;
+
+}    
+}
+h1{
+}
+a{
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.du{
+    background-color: red;
+    color: aliceblue;
+    text-align: center;
+    height: 500px;
+    padding-top: 5%;
+    font-size: 40px;
+    padding-bottom: 3% ;
+    font-style: inherit;
+}
+.knop{
+    background-color: black;
+    color :white ;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 25px;
+  padding-right: 25px;
+    font-style: initial;
+    
+}
+b{
+    font-size: 17px;
+}
+.t{
+    font-size: 110px;
+}
+.duyum{
+    display: flex; 
+    padding-top: 4%;
+    margin-left: 330px;
+    padding-right: 5%;
+    gap: 50px;
+    
+}
+.seyum{
+    display: flex; 
+    padding-top: 4%;
+    padding-left: 330px;
+    padding-right: 5%;
+    gap: 50px;
+background-color: rgb(240, 239, 239);
+margin-top: 6%;
+padding-bottom: 6%;
+}
+h4{
+    display: block;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    font-size: 35px;
+    margin-bottom: 4%;
+}
+.inst{
+    display: block;
+    text-align: center;
+    padding-bottom: 4%;
+}
